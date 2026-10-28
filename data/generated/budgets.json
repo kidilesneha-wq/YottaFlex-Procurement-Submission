@@ -1,0 +1,92 @@
+[
+  {
+    "budget_id": "BUD-001-2026",
+    "department_id": "DEPT-001",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "2650000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-002-2026",
+    "department_id": "DEPT-002",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "2800000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-003-2026",
+    "department_id": "DEPT-003",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "2950000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-004-2026",
+    "department_id": "DEPT-004",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "3100000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-005-2026",
+    "department_id": "DEPT-005",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "3250000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-006-2026",
+    "department_id": "DEPT-006",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "100000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-007-2026",
+    "department_id": "DEPT-007",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "3550000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-008-2026",
+    "department_id": "DEPT-008",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "3700000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-009-2026",
+    "department_id": "DEPT-009",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "3850000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  },
+  {
+    "budget_id": "BUD-010-2026",
+    "department_id": "DEPT-010",
+    "fiscal_year": "2026",
+    "currency": "INR",
+    "allocated_amount": "4000000",
+    "reserved_amount": "0",
+    "spent_amount": "0"
+  }
+]

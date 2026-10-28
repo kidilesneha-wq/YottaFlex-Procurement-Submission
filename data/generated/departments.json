@@ -1,0 +1,52 @@
+[
+  {
+    "department_id": "DEPT-001",
+    "name": "Engineering",
+    "cost_center": "CC-001"
+  },
+  {
+    "department_id": "DEPT-002",
+    "name": "IT",
+    "cost_center": "CC-002"
+  },
+  {
+    "department_id": "DEPT-003",
+    "name": "Finance",
+    "cost_center": "CC-003"
+  },
+  {
+    "department_id": "DEPT-004",
+    "name": "HR",
+    "cost_center": "CC-004"
+  },
+  {
+    "department_id": "DEPT-005",
+    "name": "Operations",
+    "cost_center": "CC-005"
+  },
+  {
+    "department_id": "DEPT-006",
+    "name": "Sales",
+    "cost_center": "CC-006"
+  },
+  {
+    "department_id": "DEPT-007",
+    "name": "Marketing",
+    "cost_center": "CC-007"
+  },
+  {
+    "department_id": "DEPT-008",
+    "name": "Support",
+    "cost_center": "CC-008"
+  },
+  {
+    "department_id": "DEPT-009",
+    "name": "Legal",
+    "cost_center": "CC-009"
+  },
+  {
+    "department_id": "DEPT-010",
+    "name": "Facilities",
+    "cost_center": "CC-010"
+  }
+]

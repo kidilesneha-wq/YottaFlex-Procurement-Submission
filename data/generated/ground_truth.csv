@@ -1,0 +1,8 @@
+anomaly_id,entity_type,entity_id,label,expected_issue
+ANOM-01,purchase_order,PO-2026-000001,po_without_approval,No approval record exists for the request.
+ANOM-02,purchase_order,PO-2026-000002,quote_expired_before_award,Award date is after quote expiry.
+ANOM-03,purchase_order,PO-2026-000003,selected_quote_not_cheapest,Selected quote has higher landed cost and no documented rationale.
+ANOM-04,purchase_order,PO-2026-000004,inactive_supplier,Selected supplier is inactive.
+ANOM-05,purchase_order,PO-2026-000005,budget_overrun,PO total exceeds linked budget allocation.
+ANOM-06,purchase_request,PR-2026-001201,duplicate_request,"Matching requester, department, budget, dates and estimate."
+ANOM-07,purchase_order,PO-2026-000007,quote_currency_mismatch,Selected quote currency differs from request currency.

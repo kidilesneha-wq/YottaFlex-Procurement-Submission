@@ -1,0 +1,100 @@
+entity,field,type,required,allowed_values,units,unique,validation_rule
+Department,department_id,string,yes,DEPT-NNN,none,yes,Primary key
+Department,name,string,yes,department name,none,no,Non-empty
+Department,cost_center,string,yes,CC-NNN,none,yes,Non-empty
+Budget,budget_id,string,yes,BUD-NNN-2026,none,yes,Primary key
+Budget,department_id,string,yes,existing department_id,none,no,Foreign key to Department
+Budget,fiscal_year,integer,yes,2026,year,no,Four-digit year
+Budget,currency,string,yes,INR,ISO currency code,no,Must match linked budget/request policy
+Budget,allocated_amount,decimal,yes,>= 0,INR,no,Must be non-negative
+Budget,reserved_amount,decimal,yes,>= 0,INR,no,Must be non-negative
+Budget,spent_amount,decimal,yes,>= 0,INR,no,Must be non-negative
+Requester,requester_id,string,yes,USR-NNNN,none,yes,Primary key
+Requester,name,string,yes,synthetic requester name,none,no,Non-empty
+Requester,email,string,yes,example.test address,email,no,Unique and syntactically valid
+Requester,department_id,string,yes,existing department_id,none,no,Foreign key to Department
+Requester,active,boolean-string,yes,true/false,none,no,Must be true or false
+Supplier,supplier_id,string,yes,SUP-NNNN,none,yes,Primary key
+Supplier,supplier_code,string,yes,SNNNN,none,yes,Unique supplier code used in quote ID
+Supplier,name,string,yes,synthetic supplier name,none,no,Non-empty
+Supplier,currency,string,yes,ISO currency code,none,no,Must be a three-letter currency code
+Supplier,active,boolean-string,yes,true/false,none,no,Must be true or false
+Supplier,risk_flag,string,yes,none/high,none,no,Controlled risk flag
+Supplier,payment_terms_days,integer,yes,15/30/45/60,days,no,Must be positive
+PurchaseRequest,request_id,string,yes,PR-2026-NNNNNN,none,yes,Primary key
+PurchaseRequest,requester_id,string,yes,existing requester_id,none,no,Foreign key to Requester
+PurchaseRequest,department_id,string,yes,existing department_id,none,no,Foreign key to Department
+PurchaseRequest,budget_id,string,yes,existing budget_id,none,no,Foreign key to Budget
+PurchaseRequest,created_date,date,yes,ISO YYYY-MM-DD,date,no,Must be on or before needed_by_date
+PurchaseRequest,needed_by_date,date,yes,ISO YYYY-MM-DD,date,no,Must be on or after created_date
+PurchaseRequest,currency,string,yes,INR,ISO currency code,no,Three-letter currency code
+PurchaseRequest,status,string,yes,approved/pending,none,no,Controlled lifecycle state
+PurchaseRequest,estimated_total,decimal,yes,>= 0,INR,no,Must be non-negative
+PurchaseRequest,business_purpose,string,yes,synthetic purpose,none,no,Non-empty; duplicate fixture explicitly labelled separately
+RequestLine,request_line_id,string,yes,PRL-NNNNNN-01,none,yes,Primary key
+RequestLine,request_id,string,yes,existing request_id,none,no,Foreign key to PurchaseRequest
+RequestLine,line_number,integer,yes,positive integer,line number,no,Unique per request
+RequestLine,item_code,string,yes,ITEM-NNN,none,no,Non-empty item code
+RequestLine,description,string,yes,synthetic item description,none,no,Non-empty
+RequestLine,quantity,integer,yes,1 or greater,each,no,Must be positive
+RequestLine,unit,string,yes,each,unit,no,Controlled unit
+RequestLine,estimated_unit_price,decimal,yes,>= 0,INR per unit,no,Must be non-negative
+RequestLine,currency,string,yes,INR,ISO currency code,no,Must be a three-letter currency code
+RFQ,rfq_id,string,yes,RFQ-2026-NNNNNN,none,yes,Primary key
+RFQ,request_id,string,yes,existing request_id,none,no,Foreign key to PurchaseRequest
+RFQ,issued_date,date,yes,ISO YYYY-MM-DD,date,no,Must be on or before due_date
+RFQ,due_date,date,yes,ISO YYYY-MM-DD,date,no,Must be on or after issued_date
+RFQ,status,string,yes,awarded,none,no,Controlled lifecycle state
+RFQ,competitive,boolean-string,yes,true/false,none,no,Competitive RFQ requires at least 3 quotes
+RFQ,currency,string,yes,INR,ISO currency code,no,Must be a three-letter currency code
+SupplierQuote,quote_id,string,yes,QUO-SNNNN-2026-NNNNNN,none,yes,Primary key
+SupplierQuote,rfq_id,string,yes,existing rfq_id,none,no,Foreign key to RFQ
+SupplierQuote,supplier_id,string,yes,existing supplier_id,none,no,Foreign key to Supplier
+SupplierQuote,received_date,date,yes,ISO YYYY-MM-DD,date,no,Must be on or before expiry_date
+SupplierQuote,expiry_date,date,yes,ISO YYYY-MM-DD,date,no,May precede award date only for labelled expiry anomaly
+SupplierQuote,currency,string,yes,ISO currency code,none,no,Must match PO; request mismatch is labelled anomaly
+SupplierQuote,subtotal,decimal,yes,>= 0,currency,no,Must be non-negative
+SupplierQuote,shipping,decimal,yes,>= 0,currency,no,Must be non-negative
+SupplierQuote,tax,decimal,yes,>= 0,currency,no,Must be non-negative
+SupplierQuote,lead_time_days,integer,yes,0 or greater,days,no,Must be non-negative
+SupplierQuote,status,string,yes,submitted,none,no,Controlled quote state
+Approval,approval_id,string,yes,APR-NNNNNN-01,none,yes,Primary key
+Approval,request_id,string,yes,existing request_id,none,no,Foreign key to PurchaseRequest
+Approval,approver_id,string,yes,APRVR-NNN,none,no,Non-empty; production app should prevent self-approval
+Approval,decision,string,yes,approved/rejected/pending,none,no,Controlled decision
+Approval,decision_date,date,yes,ISO YYYY-MM-DD,date,no,Valid date
+Approval,threshold_rule,string,yes,standard/manager_review,none,no,Documents threshold rule applied
+PurchaseOrder,po_id,string,yes,PO-2026-NNNNNN,none,yes,Primary key
+PurchaseOrder,request_id,string,yes,existing request_id,none,no,Foreign key to PurchaseRequest
+PurchaseOrder,rfq_id,string,yes,existing rfq_id,none,no,Foreign key to RFQ
+PurchaseOrder,quote_id,string,yes,existing quote_id,none,no,Foreign key to SupplierQuote
+PurchaseOrder,supplier_id,string,yes,existing supplier_id,none,no,Must match selected quote supplier
+PurchaseOrder,po_date,date,yes,ISO YYYY-MM-DD,date,no,Valid date; award after quote expiry is labelled anomaly
+PurchaseOrder,currency,string,yes,ISO currency code,none,no,Must match selected quote currency
+PurchaseOrder,subtotal,decimal,yes,>= 0,currency,no,Must match selected quote subtotal
+PurchaseOrder,shipping,decimal,yes,>= 0,currency,no,Must match selected quote shipping
+PurchaseOrder,tax,decimal,yes,>= 0,currency,no,Must match selected quote tax
+PurchaseOrder,total,decimal,yes,subtotal+shipping+tax,currency,no,Must reconcile to components within 0.01
+PurchaseOrder,status,string,yes,issued/partially_received,none,no,Controlled lifecycle state
+PurchaseOrder,selection_rationale,string,yes,free text or blank,none,no,Blank for selected-not-cheapest anomaly
+PurchaseOrderLine,po_line_id,string,yes,POL-NNNNNN-01,none,yes,Primary key
+PurchaseOrderLine,po_id,string,yes,existing po_id,none,no,Foreign key to PurchaseOrder
+PurchaseOrderLine,request_line_id,string,yes,existing request_line_id,none,no,Foreign key to RequestLine
+PurchaseOrderLine,description,string,yes,non-empty description,none,no,Must describe ordered item
+PurchaseOrderLine,quantity_ordered,decimal,yes,> 0,each,no,Must be positive
+PurchaseOrderLine,unit_price,decimal,yes,>= 0,currency per unit,no,Must be non-negative
+PurchaseOrderLine,currency,string,yes,ISO currency code,none,no,Must match selected quote currency
+Delivery,delivery_id,string,yes,DEL-PO-2026-NNNNNN-01,none,yes,Primary key
+Delivery,po_id,string,yes,existing po_id,none,no,Foreign key to PurchaseOrder
+Delivery,event_date,date,yes,ISO YYYY-MM-DD,date,no,Valid date
+Delivery,event_type,string,yes,delivered/partial_delivery,none,no,Controlled delivery event type
+Delivery,quantity_received,integer,yes,0 or greater,each,no,Must be non-negative
+Delivery,quantity_expected,integer,yes,0 or greater,each,no,Must be non-negative
+Delivery,notes,string,yes,free text,none,no,Documents delivery or exception context
+WorkflowEvent,event_id,string,yes,EVT-NNNNNNN,none,yes,Primary key
+WorkflowEvent,entity_type,string,yes,purchase_order/purchase_request,none,no,Controlled entity type
+WorkflowEvent,entity_id,string,yes,valid entity identifier,none,no,Must reference an entity represented in the event log
+WorkflowEvent,event_type,string,yes,request_created/approval_recorded/purchase_order_issued,none,no,Controlled event type
+WorkflowEvent,event_date,date,yes,ISO YYYY-MM-DD,date,no,Valid event date
+WorkflowEvent,actor_id,string,yes,actor identifier or SYSTEM,none,no,Non-empty
+WorkflowEvent,details,string,yes,free text,none,no,Audit explanation

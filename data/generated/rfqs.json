@@ -1,0 +1,4502 @@
+[
+  {
+    "rfq_id": "RFQ-2026-000001",
+    "request_id": "PR-2026-000001",
+    "issued_date": "2026-06-22",
+    "due_date": "2026-06-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000002",
+    "request_id": "PR-2026-000002",
+    "issued_date": "2026-02-24",
+    "due_date": "2026-03-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000003",
+    "request_id": "PR-2026-000003",
+    "issued_date": "2026-04-11",
+    "due_date": "2026-04-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000004",
+    "request_id": "PR-2026-000004",
+    "issued_date": "2026-07-26",
+    "due_date": "2026-08-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000005",
+    "request_id": "PR-2026-000006",
+    "issued_date": "2026-04-27",
+    "due_date": "2026-05-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000006",
+    "request_id": "PR-2026-000007",
+    "issued_date": "2026-08-08",
+    "due_date": "2026-08-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000007",
+    "request_id": "PR-2026-000008",
+    "issued_date": "2026-09-17",
+    "due_date": "2026-09-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000008",
+    "request_id": "PR-2026-000009",
+    "issued_date": "2026-08-04",
+    "due_date": "2026-08-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000009",
+    "request_id": "PR-2026-000011",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000010",
+    "request_id": "PR-2026-000012",
+    "issued_date": "2026-03-10",
+    "due_date": "2026-03-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000011",
+    "request_id": "PR-2026-000013",
+    "issued_date": "2026-04-19",
+    "due_date": "2026-04-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000012",
+    "request_id": "PR-2026-000014",
+    "issued_date": "2026-08-07",
+    "due_date": "2026-08-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000013",
+    "request_id": "PR-2026-000016",
+    "issued_date": "2026-06-03",
+    "due_date": "2026-06-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000014",
+    "request_id": "PR-2026-000017",
+    "issued_date": "2026-06-24",
+    "due_date": "2026-07-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000015",
+    "request_id": "PR-2026-000018",
+    "issued_date": "2026-08-07",
+    "due_date": "2026-08-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000016",
+    "request_id": "PR-2026-000019",
+    "issued_date": "2026-04-02",
+    "due_date": "2026-04-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000017",
+    "request_id": "PR-2026-000021",
+    "issued_date": "2026-05-27",
+    "due_date": "2026-06-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000018",
+    "request_id": "PR-2026-000022",
+    "issued_date": "2026-02-18",
+    "due_date": "2026-02-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000019",
+    "request_id": "PR-2026-000023",
+    "issued_date": "2026-09-14",
+    "due_date": "2026-09-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000020",
+    "request_id": "PR-2026-000024",
+    "issued_date": "2026-09-23",
+    "due_date": "2026-09-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000021",
+    "request_id": "PR-2026-000026",
+    "issued_date": "2026-05-12",
+    "due_date": "2026-05-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000022",
+    "request_id": "PR-2026-000027",
+    "issued_date": "2026-05-24",
+    "due_date": "2026-05-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000023",
+    "request_id": "PR-2026-000028",
+    "issued_date": "2026-03-25",
+    "due_date": "2026-04-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000024",
+    "request_id": "PR-2026-000029",
+    "issued_date": "2026-05-18",
+    "due_date": "2026-05-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000025",
+    "request_id": "PR-2026-000031",
+    "issued_date": "2026-04-18",
+    "due_date": "2026-04-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000026",
+    "request_id": "PR-2026-000032",
+    "issued_date": "2026-04-29",
+    "due_date": "2026-05-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000027",
+    "request_id": "PR-2026-000033",
+    "issued_date": "2026-08-18",
+    "due_date": "2026-08-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000028",
+    "request_id": "PR-2026-000034",
+    "issued_date": "2026-07-14",
+    "due_date": "2026-07-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000029",
+    "request_id": "PR-2026-000036",
+    "issued_date": "2026-04-11",
+    "due_date": "2026-04-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000030",
+    "request_id": "PR-2026-000037",
+    "issued_date": "2026-07-07",
+    "due_date": "2026-07-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000031",
+    "request_id": "PR-2026-000038",
+    "issued_date": "2026-07-06",
+    "due_date": "2026-07-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000032",
+    "request_id": "PR-2026-000039",
+    "issued_date": "2026-04-30",
+    "due_date": "2026-05-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000033",
+    "request_id": "PR-2026-000041",
+    "issued_date": "2026-09-03",
+    "due_date": "2026-09-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000034",
+    "request_id": "PR-2026-000042",
+    "issued_date": "2026-09-29",
+    "due_date": "2026-10-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000035",
+    "request_id": "PR-2026-000043",
+    "issued_date": "2026-07-10",
+    "due_date": "2026-07-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000036",
+    "request_id": "PR-2026-000044",
+    "issued_date": "2026-06-14",
+    "due_date": "2026-06-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000037",
+    "request_id": "PR-2026-000046",
+    "issued_date": "2026-05-22",
+    "due_date": "2026-05-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000038",
+    "request_id": "PR-2026-000047",
+    "issued_date": "2026-08-27",
+    "due_date": "2026-09-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000039",
+    "request_id": "PR-2026-000048",
+    "issued_date": "2026-03-12",
+    "due_date": "2026-03-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000040",
+    "request_id": "PR-2026-000049",
+    "issued_date": "2026-07-20",
+    "due_date": "2026-07-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000041",
+    "request_id": "PR-2026-000051",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000042",
+    "request_id": "PR-2026-000052",
+    "issued_date": "2026-09-06",
+    "due_date": "2026-09-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000043",
+    "request_id": "PR-2026-000053",
+    "issued_date": "2026-05-13",
+    "due_date": "2026-05-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000044",
+    "request_id": "PR-2026-000054",
+    "issued_date": "2026-08-21",
+    "due_date": "2026-08-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000045",
+    "request_id": "PR-2026-000056",
+    "issued_date": "2026-02-21",
+    "due_date": "2026-02-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000046",
+    "request_id": "PR-2026-000057",
+    "issued_date": "2026-07-06",
+    "due_date": "2026-07-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000047",
+    "request_id": "PR-2026-000058",
+    "issued_date": "2026-07-03",
+    "due_date": "2026-07-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000048",
+    "request_id": "PR-2026-000059",
+    "issued_date": "2026-07-08",
+    "due_date": "2026-07-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000049",
+    "request_id": "PR-2026-000061",
+    "issued_date": "2026-09-11",
+    "due_date": "2026-09-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000050",
+    "request_id": "PR-2026-000062",
+    "issued_date": "2026-09-19",
+    "due_date": "2026-09-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000051",
+    "request_id": "PR-2026-000063",
+    "issued_date": "2026-09-18",
+    "due_date": "2026-09-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000052",
+    "request_id": "PR-2026-000064",
+    "issued_date": "2026-03-29",
+    "due_date": "2026-04-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000053",
+    "request_id": "PR-2026-000066",
+    "issued_date": "2026-04-17",
+    "due_date": "2026-04-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000054",
+    "request_id": "PR-2026-000067",
+    "issued_date": "2026-07-10",
+    "due_date": "2026-07-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000055",
+    "request_id": "PR-2026-000068",
+    "issued_date": "2026-08-21",
+    "due_date": "2026-08-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000056",
+    "request_id": "PR-2026-000069",
+    "issued_date": "2026-07-22",
+    "due_date": "2026-07-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000057",
+    "request_id": "PR-2026-000071",
+    "issued_date": "2026-06-21",
+    "due_date": "2026-06-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000058",
+    "request_id": "PR-2026-000072",
+    "issued_date": "2026-06-29",
+    "due_date": "2026-07-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000059",
+    "request_id": "PR-2026-000073",
+    "issued_date": "2026-09-23",
+    "due_date": "2026-09-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000060",
+    "request_id": "PR-2026-000074",
+    "issued_date": "2026-03-18",
+    "due_date": "2026-03-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000061",
+    "request_id": "PR-2026-000076",
+    "issued_date": "2026-09-20",
+    "due_date": "2026-09-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000062",
+    "request_id": "PR-2026-000077",
+    "issued_date": "2026-09-27",
+    "due_date": "2026-10-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000063",
+    "request_id": "PR-2026-000078",
+    "issued_date": "2026-05-11",
+    "due_date": "2026-05-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000064",
+    "request_id": "PR-2026-000079",
+    "issued_date": "2026-07-28",
+    "due_date": "2026-08-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000065",
+    "request_id": "PR-2026-000081",
+    "issued_date": "2026-03-19",
+    "due_date": "2026-03-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000066",
+    "request_id": "PR-2026-000082",
+    "issued_date": "2026-07-14",
+    "due_date": "2026-07-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000067",
+    "request_id": "PR-2026-000083",
+    "issued_date": "2026-08-17",
+    "due_date": "2026-08-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000068",
+    "request_id": "PR-2026-000084",
+    "issued_date": "2026-08-25",
+    "due_date": "2026-09-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000069",
+    "request_id": "PR-2026-000086",
+    "issued_date": "2026-04-14",
+    "due_date": "2026-04-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000070",
+    "request_id": "PR-2026-000087",
+    "issued_date": "2026-03-06",
+    "due_date": "2026-03-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000071",
+    "request_id": "PR-2026-000088",
+    "issued_date": "2026-02-25",
+    "due_date": "2026-03-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000072",
+    "request_id": "PR-2026-000089",
+    "issued_date": "2026-08-24",
+    "due_date": "2026-08-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000073",
+    "request_id": "PR-2026-000091",
+    "issued_date": "2026-08-04",
+    "due_date": "2026-08-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000074",
+    "request_id": "PR-2026-000092",
+    "issued_date": "2026-05-23",
+    "due_date": "2026-05-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000075",
+    "request_id": "PR-2026-000093",
+    "issued_date": "2026-04-12",
+    "due_date": "2026-04-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000076",
+    "request_id": "PR-2026-000094",
+    "issued_date": "2026-02-19",
+    "due_date": "2026-02-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000077",
+    "request_id": "PR-2026-000096",
+    "issued_date": "2026-07-14",
+    "due_date": "2026-07-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000078",
+    "request_id": "PR-2026-000097",
+    "issued_date": "2026-05-25",
+    "due_date": "2026-06-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000079",
+    "request_id": "PR-2026-000098",
+    "issued_date": "2026-05-21",
+    "due_date": "2026-05-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000080",
+    "request_id": "PR-2026-000099",
+    "issued_date": "2026-05-21",
+    "due_date": "2026-05-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000081",
+    "request_id": "PR-2026-000101",
+    "issued_date": "2026-07-18",
+    "due_date": "2026-07-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000082",
+    "request_id": "PR-2026-000102",
+    "issued_date": "2026-03-12",
+    "due_date": "2026-03-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000083",
+    "request_id": "PR-2026-000103",
+    "issued_date": "2026-07-02",
+    "due_date": "2026-07-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000084",
+    "request_id": "PR-2026-000104",
+    "issued_date": "2026-07-07",
+    "due_date": "2026-07-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000085",
+    "request_id": "PR-2026-000106",
+    "issued_date": "2026-08-07",
+    "due_date": "2026-08-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000086",
+    "request_id": "PR-2026-000107",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000087",
+    "request_id": "PR-2026-000108",
+    "issued_date": "2026-09-03",
+    "due_date": "2026-09-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000088",
+    "request_id": "PR-2026-000109",
+    "issued_date": "2026-05-26",
+    "due_date": "2026-06-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000089",
+    "request_id": "PR-2026-000111",
+    "issued_date": "2026-02-20",
+    "due_date": "2026-02-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000090",
+    "request_id": "PR-2026-000112",
+    "issued_date": "2026-02-26",
+    "due_date": "2026-03-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000091",
+    "request_id": "PR-2026-000113",
+    "issued_date": "2026-09-24",
+    "due_date": "2026-10-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000092",
+    "request_id": "PR-2026-000114",
+    "issued_date": "2026-07-25",
+    "due_date": "2026-08-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000093",
+    "request_id": "PR-2026-000116",
+    "issued_date": "2026-06-01",
+    "due_date": "2026-06-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000094",
+    "request_id": "PR-2026-000117",
+    "issued_date": "2026-05-05",
+    "due_date": "2026-05-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000095",
+    "request_id": "PR-2026-000118",
+    "issued_date": "2026-07-27",
+    "due_date": "2026-08-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000096",
+    "request_id": "PR-2026-000119",
+    "issued_date": "2026-02-20",
+    "due_date": "2026-02-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000097",
+    "request_id": "PR-2026-000121",
+    "issued_date": "2026-08-03",
+    "due_date": "2026-08-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000098",
+    "request_id": "PR-2026-000122",
+    "issued_date": "2026-08-01",
+    "due_date": "2026-08-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000099",
+    "request_id": "PR-2026-000123",
+    "issued_date": "2026-05-07",
+    "due_date": "2026-05-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000100",
+    "request_id": "PR-2026-000124",
+    "issued_date": "2026-06-24",
+    "due_date": "2026-07-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000101",
+    "request_id": "PR-2026-000126",
+    "issued_date": "2026-06-22",
+    "due_date": "2026-06-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000102",
+    "request_id": "PR-2026-000127",
+    "issued_date": "2026-06-17",
+    "due_date": "2026-06-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000103",
+    "request_id": "PR-2026-000128",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000104",
+    "request_id": "PR-2026-000129",
+    "issued_date": "2026-08-13",
+    "due_date": "2026-08-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000105",
+    "request_id": "PR-2026-000131",
+    "issued_date": "2026-02-16",
+    "due_date": "2026-02-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000106",
+    "request_id": "PR-2026-000132",
+    "issued_date": "2026-03-20",
+    "due_date": "2026-03-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000107",
+    "request_id": "PR-2026-000133",
+    "issued_date": "2026-07-06",
+    "due_date": "2026-07-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000108",
+    "request_id": "PR-2026-000134",
+    "issued_date": "2026-05-18",
+    "due_date": "2026-05-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000109",
+    "request_id": "PR-2026-000136",
+    "issued_date": "2026-03-18",
+    "due_date": "2026-03-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000110",
+    "request_id": "PR-2026-000137",
+    "issued_date": "2026-04-11",
+    "due_date": "2026-04-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000111",
+    "request_id": "PR-2026-000138",
+    "issued_date": "2026-07-22",
+    "due_date": "2026-07-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000112",
+    "request_id": "PR-2026-000139",
+    "issued_date": "2026-05-09",
+    "due_date": "2026-05-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000113",
+    "request_id": "PR-2026-000141",
+    "issued_date": "2026-08-28",
+    "due_date": "2026-09-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000114",
+    "request_id": "PR-2026-000142",
+    "issued_date": "2026-06-05",
+    "due_date": "2026-06-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000115",
+    "request_id": "PR-2026-000143",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000116",
+    "request_id": "PR-2026-000144",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000117",
+    "request_id": "PR-2026-000146",
+    "issued_date": "2026-04-22",
+    "due_date": "2026-04-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000118",
+    "request_id": "PR-2026-000147",
+    "issued_date": "2026-04-22",
+    "due_date": "2026-04-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000119",
+    "request_id": "PR-2026-000148",
+    "issued_date": "2026-08-11",
+    "due_date": "2026-08-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000120",
+    "request_id": "PR-2026-000149",
+    "issued_date": "2026-08-09",
+    "due_date": "2026-08-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000121",
+    "request_id": "PR-2026-000151",
+    "issued_date": "2026-04-06",
+    "due_date": "2026-04-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000122",
+    "request_id": "PR-2026-000152",
+    "issued_date": "2026-03-10",
+    "due_date": "2026-03-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000123",
+    "request_id": "PR-2026-000153",
+    "issued_date": "2026-07-20",
+    "due_date": "2026-07-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000124",
+    "request_id": "PR-2026-000154",
+    "issued_date": "2026-03-02",
+    "due_date": "2026-03-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000125",
+    "request_id": "PR-2026-000156",
+    "issued_date": "2026-07-28",
+    "due_date": "2026-08-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000126",
+    "request_id": "PR-2026-000157",
+    "issued_date": "2026-09-22",
+    "due_date": "2026-09-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000127",
+    "request_id": "PR-2026-000158",
+    "issued_date": "2026-03-30",
+    "due_date": "2026-04-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000128",
+    "request_id": "PR-2026-000159",
+    "issued_date": "2026-09-22",
+    "due_date": "2026-09-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000129",
+    "request_id": "PR-2026-000161",
+    "issued_date": "2026-06-05",
+    "due_date": "2026-06-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000130",
+    "request_id": "PR-2026-000162",
+    "issued_date": "2026-04-08",
+    "due_date": "2026-04-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000131",
+    "request_id": "PR-2026-000163",
+    "issued_date": "2026-06-07",
+    "due_date": "2026-06-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000132",
+    "request_id": "PR-2026-000164",
+    "issued_date": "2026-09-03",
+    "due_date": "2026-09-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000133",
+    "request_id": "PR-2026-000166",
+    "issued_date": "2026-07-29",
+    "due_date": "2026-08-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000134",
+    "request_id": "PR-2026-000167",
+    "issued_date": "2026-09-13",
+    "due_date": "2026-09-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000135",
+    "request_id": "PR-2026-000168",
+    "issued_date": "2026-08-01",
+    "due_date": "2026-08-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000136",
+    "request_id": "PR-2026-000169",
+    "issued_date": "2026-03-11",
+    "due_date": "2026-03-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000137",
+    "request_id": "PR-2026-000171",
+    "issued_date": "2026-03-07",
+    "due_date": "2026-03-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000138",
+    "request_id": "PR-2026-000172",
+    "issued_date": "2026-05-15",
+    "due_date": "2026-05-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000139",
+    "request_id": "PR-2026-000173",
+    "issued_date": "2026-05-30",
+    "due_date": "2026-06-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000140",
+    "request_id": "PR-2026-000174",
+    "issued_date": "2026-08-03",
+    "due_date": "2026-08-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000141",
+    "request_id": "PR-2026-000176",
+    "issued_date": "2026-08-18",
+    "due_date": "2026-08-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000142",
+    "request_id": "PR-2026-000177",
+    "issued_date": "2026-04-27",
+    "due_date": "2026-05-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000143",
+    "request_id": "PR-2026-000178",
+    "issued_date": "2026-03-26",
+    "due_date": "2026-04-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000144",
+    "request_id": "PR-2026-000179",
+    "issued_date": "2026-09-25",
+    "due_date": "2026-10-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000145",
+    "request_id": "PR-2026-000181",
+    "issued_date": "2026-07-09",
+    "due_date": "2026-07-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000146",
+    "request_id": "PR-2026-000182",
+    "issued_date": "2026-07-31",
+    "due_date": "2026-08-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000147",
+    "request_id": "PR-2026-000183",
+    "issued_date": "2026-03-29",
+    "due_date": "2026-04-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000148",
+    "request_id": "PR-2026-000184",
+    "issued_date": "2026-09-29",
+    "due_date": "2026-10-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000149",
+    "request_id": "PR-2026-000186",
+    "issued_date": "2026-04-22",
+    "due_date": "2026-04-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000150",
+    "request_id": "PR-2026-000187",
+    "issued_date": "2026-08-16",
+    "due_date": "2026-08-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000151",
+    "request_id": "PR-2026-000188",
+    "issued_date": "2026-02-26",
+    "due_date": "2026-03-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000152",
+    "request_id": "PR-2026-000189",
+    "issued_date": "2026-03-21",
+    "due_date": "2026-03-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000153",
+    "request_id": "PR-2026-000191",
+    "issued_date": "2026-03-11",
+    "due_date": "2026-03-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000154",
+    "request_id": "PR-2026-000192",
+    "issued_date": "2026-02-23",
+    "due_date": "2026-03-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000155",
+    "request_id": "PR-2026-000193",
+    "issued_date": "2026-03-06",
+    "due_date": "2026-03-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000156",
+    "request_id": "PR-2026-000194",
+    "issued_date": "2026-08-24",
+    "due_date": "2026-08-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000157",
+    "request_id": "PR-2026-000196",
+    "issued_date": "2026-05-08",
+    "due_date": "2026-05-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000158",
+    "request_id": "PR-2026-000197",
+    "issued_date": "2026-08-06",
+    "due_date": "2026-08-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000159",
+    "request_id": "PR-2026-000198",
+    "issued_date": "2026-08-02",
+    "due_date": "2026-08-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000160",
+    "request_id": "PR-2026-000199",
+    "issued_date": "2026-05-03",
+    "due_date": "2026-05-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000161",
+    "request_id": "PR-2026-000201",
+    "issued_date": "2026-04-02",
+    "due_date": "2026-04-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000162",
+    "request_id": "PR-2026-000202",
+    "issued_date": "2026-09-17",
+    "due_date": "2026-09-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000163",
+    "request_id": "PR-2026-000203",
+    "issued_date": "2026-02-23",
+    "due_date": "2026-03-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000164",
+    "request_id": "PR-2026-000204",
+    "issued_date": "2026-03-26",
+    "due_date": "2026-04-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000165",
+    "request_id": "PR-2026-000206",
+    "issued_date": "2026-03-16",
+    "due_date": "2026-03-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000166",
+    "request_id": "PR-2026-000207",
+    "issued_date": "2026-03-07",
+    "due_date": "2026-03-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000167",
+    "request_id": "PR-2026-000208",
+    "issued_date": "2026-08-08",
+    "due_date": "2026-08-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000168",
+    "request_id": "PR-2026-000209",
+    "issued_date": "2026-08-30",
+    "due_date": "2026-09-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000169",
+    "request_id": "PR-2026-000211",
+    "issued_date": "2026-09-28",
+    "due_date": "2026-10-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000170",
+    "request_id": "PR-2026-000212",
+    "issued_date": "2026-04-30",
+    "due_date": "2026-05-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000171",
+    "request_id": "PR-2026-000213",
+    "issued_date": "2026-03-28",
+    "due_date": "2026-04-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000172",
+    "request_id": "PR-2026-000214",
+    "issued_date": "2026-04-06",
+    "due_date": "2026-04-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000173",
+    "request_id": "PR-2026-000216",
+    "issued_date": "2026-06-15",
+    "due_date": "2026-06-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000174",
+    "request_id": "PR-2026-000217",
+    "issued_date": "2026-10-01",
+    "due_date": "2026-10-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000175",
+    "request_id": "PR-2026-000218",
+    "issued_date": "2026-08-10",
+    "due_date": "2026-08-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000176",
+    "request_id": "PR-2026-000219",
+    "issued_date": "2026-08-08",
+    "due_date": "2026-08-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000177",
+    "request_id": "PR-2026-000221",
+    "issued_date": "2026-08-02",
+    "due_date": "2026-08-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000178",
+    "request_id": "PR-2026-000222",
+    "issued_date": "2026-03-23",
+    "due_date": "2026-03-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000179",
+    "request_id": "PR-2026-000223",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000180",
+    "request_id": "PR-2026-000224",
+    "issued_date": "2026-05-24",
+    "due_date": "2026-05-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000181",
+    "request_id": "PR-2026-000226",
+    "issued_date": "2026-08-29",
+    "due_date": "2026-09-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000182",
+    "request_id": "PR-2026-000227",
+    "issued_date": "2026-09-07",
+    "due_date": "2026-09-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000183",
+    "request_id": "PR-2026-000228",
+    "issued_date": "2026-03-17",
+    "due_date": "2026-03-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000184",
+    "request_id": "PR-2026-000229",
+    "issued_date": "2026-04-13",
+    "due_date": "2026-04-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000185",
+    "request_id": "PR-2026-000231",
+    "issued_date": "2026-09-07",
+    "due_date": "2026-09-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000186",
+    "request_id": "PR-2026-000232",
+    "issued_date": "2026-10-02",
+    "due_date": "2026-10-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000187",
+    "request_id": "PR-2026-000233",
+    "issued_date": "2026-09-09",
+    "due_date": "2026-09-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000188",
+    "request_id": "PR-2026-000234",
+    "issued_date": "2026-04-12",
+    "due_date": "2026-04-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000189",
+    "request_id": "PR-2026-000236",
+    "issued_date": "2026-09-20",
+    "due_date": "2026-09-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000190",
+    "request_id": "PR-2026-000237",
+    "issued_date": "2026-07-27",
+    "due_date": "2026-08-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000191",
+    "request_id": "PR-2026-000238",
+    "issued_date": "2026-04-18",
+    "due_date": "2026-04-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000192",
+    "request_id": "PR-2026-000239",
+    "issued_date": "2026-06-17",
+    "due_date": "2026-06-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000193",
+    "request_id": "PR-2026-000241",
+    "issued_date": "2026-03-25",
+    "due_date": "2026-04-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000194",
+    "request_id": "PR-2026-000242",
+    "issued_date": "2026-06-29",
+    "due_date": "2026-07-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000195",
+    "request_id": "PR-2026-000243",
+    "issued_date": "2026-04-01",
+    "due_date": "2026-04-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000196",
+    "request_id": "PR-2026-000244",
+    "issued_date": "2026-05-05",
+    "due_date": "2026-05-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000197",
+    "request_id": "PR-2026-000246",
+    "issued_date": "2026-05-31",
+    "due_date": "2026-06-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000198",
+    "request_id": "PR-2026-000247",
+    "issued_date": "2026-03-27",
+    "due_date": "2026-04-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000199",
+    "request_id": "PR-2026-000248",
+    "issued_date": "2026-04-09",
+    "due_date": "2026-04-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000200",
+    "request_id": "PR-2026-000249",
+    "issued_date": "2026-05-18",
+    "due_date": "2026-05-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000201",
+    "request_id": "PR-2026-000251",
+    "issued_date": "2026-05-17",
+    "due_date": "2026-05-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000202",
+    "request_id": "PR-2026-000252",
+    "issued_date": "2026-06-02",
+    "due_date": "2026-06-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000203",
+    "request_id": "PR-2026-000253",
+    "issued_date": "2026-08-08",
+    "due_date": "2026-08-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000204",
+    "request_id": "PR-2026-000254",
+    "issued_date": "2026-08-07",
+    "due_date": "2026-08-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000205",
+    "request_id": "PR-2026-000256",
+    "issued_date": "2026-07-25",
+    "due_date": "2026-08-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000206",
+    "request_id": "PR-2026-000257",
+    "issued_date": "2026-03-31",
+    "due_date": "2026-04-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000207",
+    "request_id": "PR-2026-000258",
+    "issued_date": "2026-09-17",
+    "due_date": "2026-09-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000208",
+    "request_id": "PR-2026-000259",
+    "issued_date": "2026-09-08",
+    "due_date": "2026-09-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000209",
+    "request_id": "PR-2026-000261",
+    "issued_date": "2026-02-17",
+    "due_date": "2026-02-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000210",
+    "request_id": "PR-2026-000262",
+    "issued_date": "2026-06-26",
+    "due_date": "2026-07-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000211",
+    "request_id": "PR-2026-000263",
+    "issued_date": "2026-08-01",
+    "due_date": "2026-08-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000212",
+    "request_id": "PR-2026-000264",
+    "issued_date": "2026-05-16",
+    "due_date": "2026-05-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000213",
+    "request_id": "PR-2026-000266",
+    "issued_date": "2026-09-17",
+    "due_date": "2026-09-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000214",
+    "request_id": "PR-2026-000267",
+    "issued_date": "2026-09-01",
+    "due_date": "2026-09-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000215",
+    "request_id": "PR-2026-000268",
+    "issued_date": "2026-08-13",
+    "due_date": "2026-08-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000216",
+    "request_id": "PR-2026-000269",
+    "issued_date": "2026-07-24",
+    "due_date": "2026-07-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000217",
+    "request_id": "PR-2026-000271",
+    "issued_date": "2026-04-21",
+    "due_date": "2026-04-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000218",
+    "request_id": "PR-2026-000272",
+    "issued_date": "2026-04-18",
+    "due_date": "2026-04-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000219",
+    "request_id": "PR-2026-000273",
+    "issued_date": "2026-02-28",
+    "due_date": "2026-03-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000220",
+    "request_id": "PR-2026-000274",
+    "issued_date": "2026-04-23",
+    "due_date": "2026-04-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000221",
+    "request_id": "PR-2026-000276",
+    "issued_date": "2026-06-04",
+    "due_date": "2026-06-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000222",
+    "request_id": "PR-2026-000277",
+    "issued_date": "2026-02-19",
+    "due_date": "2026-02-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000223",
+    "request_id": "PR-2026-000278",
+    "issued_date": "2026-06-05",
+    "due_date": "2026-06-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000224",
+    "request_id": "PR-2026-000279",
+    "issued_date": "2026-07-09",
+    "due_date": "2026-07-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000225",
+    "request_id": "PR-2026-000281",
+    "issued_date": "2026-07-30",
+    "due_date": "2026-08-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000226",
+    "request_id": "PR-2026-000282",
+    "issued_date": "2026-07-24",
+    "due_date": "2026-07-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000227",
+    "request_id": "PR-2026-000283",
+    "issued_date": "2026-05-01",
+    "due_date": "2026-05-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000228",
+    "request_id": "PR-2026-000284",
+    "issued_date": "2026-03-19",
+    "due_date": "2026-03-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000229",
+    "request_id": "PR-2026-000286",
+    "issued_date": "2026-02-28",
+    "due_date": "2026-03-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000230",
+    "request_id": "PR-2026-000287",
+    "issued_date": "2026-05-31",
+    "due_date": "2026-06-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000231",
+    "request_id": "PR-2026-000288",
+    "issued_date": "2026-07-10",
+    "due_date": "2026-07-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000232",
+    "request_id": "PR-2026-000289",
+    "issued_date": "2026-05-05",
+    "due_date": "2026-05-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000233",
+    "request_id": "PR-2026-000291",
+    "issued_date": "2026-09-08",
+    "due_date": "2026-09-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000234",
+    "request_id": "PR-2026-000292",
+    "issued_date": "2026-04-08",
+    "due_date": "2026-04-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000235",
+    "request_id": "PR-2026-000293",
+    "issued_date": "2026-05-13",
+    "due_date": "2026-05-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000236",
+    "request_id": "PR-2026-000294",
+    "issued_date": "2026-04-11",
+    "due_date": "2026-04-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000237",
+    "request_id": "PR-2026-000296",
+    "issued_date": "2026-04-10",
+    "due_date": "2026-04-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000238",
+    "request_id": "PR-2026-000297",
+    "issued_date": "2026-06-15",
+    "due_date": "2026-06-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000239",
+    "request_id": "PR-2026-000298",
+    "issued_date": "2026-03-22",
+    "due_date": "2026-03-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000240",
+    "request_id": "PR-2026-000299",
+    "issued_date": "2026-03-03",
+    "due_date": "2026-03-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000241",
+    "request_id": "PR-2026-000301",
+    "issued_date": "2026-07-27",
+    "due_date": "2026-08-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000242",
+    "request_id": "PR-2026-000302",
+    "issued_date": "2026-07-29",
+    "due_date": "2026-08-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000243",
+    "request_id": "PR-2026-000303",
+    "issued_date": "2026-03-27",
+    "due_date": "2026-04-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000244",
+    "request_id": "PR-2026-000304",
+    "issued_date": "2026-02-24",
+    "due_date": "2026-03-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000245",
+    "request_id": "PR-2026-000306",
+    "issued_date": "2026-07-16",
+    "due_date": "2026-07-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000246",
+    "request_id": "PR-2026-000307",
+    "issued_date": "2026-09-14",
+    "due_date": "2026-09-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000247",
+    "request_id": "PR-2026-000308",
+    "issued_date": "2026-08-15",
+    "due_date": "2026-08-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000248",
+    "request_id": "PR-2026-000309",
+    "issued_date": "2026-02-15",
+    "due_date": "2026-02-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000249",
+    "request_id": "PR-2026-000311",
+    "issued_date": "2026-02-20",
+    "due_date": "2026-02-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000250",
+    "request_id": "PR-2026-000312",
+    "issued_date": "2026-07-01",
+    "due_date": "2026-07-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000251",
+    "request_id": "PR-2026-000313",
+    "issued_date": "2026-07-23",
+    "due_date": "2026-07-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000252",
+    "request_id": "PR-2026-000314",
+    "issued_date": "2026-09-18",
+    "due_date": "2026-09-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000253",
+    "request_id": "PR-2026-000316",
+    "issued_date": "2026-07-11",
+    "due_date": "2026-07-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000254",
+    "request_id": "PR-2026-000317",
+    "issued_date": "2026-05-02",
+    "due_date": "2026-05-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000255",
+    "request_id": "PR-2026-000318",
+    "issued_date": "2026-09-21",
+    "due_date": "2026-09-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000256",
+    "request_id": "PR-2026-000319",
+    "issued_date": "2026-03-20",
+    "due_date": "2026-03-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000257",
+    "request_id": "PR-2026-000321",
+    "issued_date": "2026-03-11",
+    "due_date": "2026-03-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000258",
+    "request_id": "PR-2026-000322",
+    "issued_date": "2026-07-31",
+    "due_date": "2026-08-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000259",
+    "request_id": "PR-2026-000323",
+    "issued_date": "2026-08-12",
+    "due_date": "2026-08-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000260",
+    "request_id": "PR-2026-000324",
+    "issued_date": "2026-08-21",
+    "due_date": "2026-08-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000261",
+    "request_id": "PR-2026-000326",
+    "issued_date": "2026-02-26",
+    "due_date": "2026-03-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000262",
+    "request_id": "PR-2026-000327",
+    "issued_date": "2026-09-06",
+    "due_date": "2026-09-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000263",
+    "request_id": "PR-2026-000328",
+    "issued_date": "2026-04-17",
+    "due_date": "2026-04-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000264",
+    "request_id": "PR-2026-000329",
+    "issued_date": "2026-03-05",
+    "due_date": "2026-03-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000265",
+    "request_id": "PR-2026-000331",
+    "issued_date": "2026-04-09",
+    "due_date": "2026-04-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000266",
+    "request_id": "PR-2026-000332",
+    "issued_date": "2026-06-28",
+    "due_date": "2026-07-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000267",
+    "request_id": "PR-2026-000333",
+    "issued_date": "2026-07-13",
+    "due_date": "2026-07-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000268",
+    "request_id": "PR-2026-000334",
+    "issued_date": "2026-03-27",
+    "due_date": "2026-04-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000269",
+    "request_id": "PR-2026-000336",
+    "issued_date": "2026-02-28",
+    "due_date": "2026-03-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000270",
+    "request_id": "PR-2026-000337",
+    "issued_date": "2026-05-25",
+    "due_date": "2026-06-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000271",
+    "request_id": "PR-2026-000338",
+    "issued_date": "2026-09-19",
+    "due_date": "2026-09-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000272",
+    "request_id": "PR-2026-000339",
+    "issued_date": "2026-06-06",
+    "due_date": "2026-06-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000273",
+    "request_id": "PR-2026-000341",
+    "issued_date": "2026-06-24",
+    "due_date": "2026-07-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000274",
+    "request_id": "PR-2026-000342",
+    "issued_date": "2026-09-23",
+    "due_date": "2026-09-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000275",
+    "request_id": "PR-2026-000343",
+    "issued_date": "2026-10-03",
+    "due_date": "2026-10-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000276",
+    "request_id": "PR-2026-000344",
+    "issued_date": "2026-07-12",
+    "due_date": "2026-07-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000277",
+    "request_id": "PR-2026-000346",
+    "issued_date": "2026-03-27",
+    "due_date": "2026-04-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000278",
+    "request_id": "PR-2026-000347",
+    "issued_date": "2026-02-17",
+    "due_date": "2026-02-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000279",
+    "request_id": "PR-2026-000348",
+    "issued_date": "2026-09-01",
+    "due_date": "2026-09-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000280",
+    "request_id": "PR-2026-000349",
+    "issued_date": "2026-09-25",
+    "due_date": "2026-10-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000281",
+    "request_id": "PR-2026-000351",
+    "issued_date": "2026-08-20",
+    "due_date": "2026-08-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000282",
+    "request_id": "PR-2026-000352",
+    "issued_date": "2026-06-03",
+    "due_date": "2026-06-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000283",
+    "request_id": "PR-2026-000353",
+    "issued_date": "2026-03-31",
+    "due_date": "2026-04-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000284",
+    "request_id": "PR-2026-000354",
+    "issued_date": "2026-08-27",
+    "due_date": "2026-09-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000285",
+    "request_id": "PR-2026-000356",
+    "issued_date": "2026-03-03",
+    "due_date": "2026-03-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000286",
+    "request_id": "PR-2026-000357",
+    "issued_date": "2026-08-04",
+    "due_date": "2026-08-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000287",
+    "request_id": "PR-2026-000358",
+    "issued_date": "2026-05-23",
+    "due_date": "2026-05-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000288",
+    "request_id": "PR-2026-000359",
+    "issued_date": "2026-06-05",
+    "due_date": "2026-06-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000289",
+    "request_id": "PR-2026-000361",
+    "issued_date": "2026-05-25",
+    "due_date": "2026-06-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000290",
+    "request_id": "PR-2026-000362",
+    "issued_date": "2026-08-09",
+    "due_date": "2026-08-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000291",
+    "request_id": "PR-2026-000363",
+    "issued_date": "2026-06-19",
+    "due_date": "2026-06-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000292",
+    "request_id": "PR-2026-000364",
+    "issued_date": "2026-09-10",
+    "due_date": "2026-09-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000293",
+    "request_id": "PR-2026-000366",
+    "issued_date": "2026-03-04",
+    "due_date": "2026-03-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000294",
+    "request_id": "PR-2026-000367",
+    "issued_date": "2026-03-13",
+    "due_date": "2026-03-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000295",
+    "request_id": "PR-2026-000368",
+    "issued_date": "2026-02-16",
+    "due_date": "2026-02-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000296",
+    "request_id": "PR-2026-000369",
+    "issued_date": "2026-08-03",
+    "due_date": "2026-08-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000297",
+    "request_id": "PR-2026-000371",
+    "issued_date": "2026-05-14",
+    "due_date": "2026-05-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000298",
+    "request_id": "PR-2026-000372",
+    "issued_date": "2026-04-23",
+    "due_date": "2026-04-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000299",
+    "request_id": "PR-2026-000373",
+    "issued_date": "2026-07-19",
+    "due_date": "2026-07-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000300",
+    "request_id": "PR-2026-000374",
+    "issued_date": "2026-03-13",
+    "due_date": "2026-03-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000301",
+    "request_id": "PR-2026-000376",
+    "issued_date": "2026-03-09",
+    "due_date": "2026-03-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000302",
+    "request_id": "PR-2026-000377",
+    "issued_date": "2026-05-24",
+    "due_date": "2026-05-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000303",
+    "request_id": "PR-2026-000378",
+    "issued_date": "2026-07-19",
+    "due_date": "2026-07-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000304",
+    "request_id": "PR-2026-000379",
+    "issued_date": "2026-04-22",
+    "due_date": "2026-04-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000305",
+    "request_id": "PR-2026-000381",
+    "issued_date": "2026-08-20",
+    "due_date": "2026-08-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000306",
+    "request_id": "PR-2026-000382",
+    "issued_date": "2026-08-17",
+    "due_date": "2026-08-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000307",
+    "request_id": "PR-2026-000383",
+    "issued_date": "2026-05-08",
+    "due_date": "2026-05-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000308",
+    "request_id": "PR-2026-000384",
+    "issued_date": "2026-07-11",
+    "due_date": "2026-07-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000309",
+    "request_id": "PR-2026-000386",
+    "issued_date": "2026-07-29",
+    "due_date": "2026-08-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000310",
+    "request_id": "PR-2026-000387",
+    "issued_date": "2026-06-11",
+    "due_date": "2026-06-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000311",
+    "request_id": "PR-2026-000388",
+    "issued_date": "2026-03-25",
+    "due_date": "2026-04-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000312",
+    "request_id": "PR-2026-000389",
+    "issued_date": "2026-02-27",
+    "due_date": "2026-03-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000313",
+    "request_id": "PR-2026-000391",
+    "issued_date": "2026-07-20",
+    "due_date": "2026-07-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000314",
+    "request_id": "PR-2026-000392",
+    "issued_date": "2026-08-06",
+    "due_date": "2026-08-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000315",
+    "request_id": "PR-2026-000393",
+    "issued_date": "2026-03-29",
+    "due_date": "2026-04-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000316",
+    "request_id": "PR-2026-000394",
+    "issued_date": "2026-05-09",
+    "due_date": "2026-05-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000317",
+    "request_id": "PR-2026-000396",
+    "issued_date": "2026-09-25",
+    "due_date": "2026-10-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000318",
+    "request_id": "PR-2026-000397",
+    "issued_date": "2026-04-22",
+    "due_date": "2026-04-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000319",
+    "request_id": "PR-2026-000398",
+    "issued_date": "2026-04-10",
+    "due_date": "2026-04-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000320",
+    "request_id": "PR-2026-000399",
+    "issued_date": "2026-05-06",
+    "due_date": "2026-05-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000321",
+    "request_id": "PR-2026-000401",
+    "issued_date": "2026-06-30",
+    "due_date": "2026-07-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000322",
+    "request_id": "PR-2026-000402",
+    "issued_date": "2026-04-23",
+    "due_date": "2026-04-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000323",
+    "request_id": "PR-2026-000403",
+    "issued_date": "2026-04-06",
+    "due_date": "2026-04-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000324",
+    "request_id": "PR-2026-000404",
+    "issued_date": "2026-04-24",
+    "due_date": "2026-05-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000325",
+    "request_id": "PR-2026-000406",
+    "issued_date": "2026-02-20",
+    "due_date": "2026-02-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000326",
+    "request_id": "PR-2026-000407",
+    "issued_date": "2026-09-13",
+    "due_date": "2026-09-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000327",
+    "request_id": "PR-2026-000408",
+    "issued_date": "2026-03-17",
+    "due_date": "2026-03-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000328",
+    "request_id": "PR-2026-000409",
+    "issued_date": "2026-06-10",
+    "due_date": "2026-06-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000329",
+    "request_id": "PR-2026-000411",
+    "issued_date": "2026-07-08",
+    "due_date": "2026-07-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000330",
+    "request_id": "PR-2026-000412",
+    "issued_date": "2026-03-21",
+    "due_date": "2026-03-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000331",
+    "request_id": "PR-2026-000413",
+    "issued_date": "2026-07-07",
+    "due_date": "2026-07-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000332",
+    "request_id": "PR-2026-000414",
+    "issued_date": "2026-07-20",
+    "due_date": "2026-07-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000333",
+    "request_id": "PR-2026-000416",
+    "issued_date": "2026-06-03",
+    "due_date": "2026-06-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000334",
+    "request_id": "PR-2026-000417",
+    "issued_date": "2026-03-19",
+    "due_date": "2026-03-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000335",
+    "request_id": "PR-2026-000418",
+    "issued_date": "2026-07-01",
+    "due_date": "2026-07-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000336",
+    "request_id": "PR-2026-000419",
+    "issued_date": "2026-07-04",
+    "due_date": "2026-07-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000337",
+    "request_id": "PR-2026-000421",
+    "issued_date": "2026-07-04",
+    "due_date": "2026-07-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000338",
+    "request_id": "PR-2026-000422",
+    "issued_date": "2026-07-24",
+    "due_date": "2026-07-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000339",
+    "request_id": "PR-2026-000423",
+    "issued_date": "2026-05-26",
+    "due_date": "2026-06-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000340",
+    "request_id": "PR-2026-000424",
+    "issued_date": "2026-08-25",
+    "due_date": "2026-09-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000341",
+    "request_id": "PR-2026-000426",
+    "issued_date": "2026-06-21",
+    "due_date": "2026-06-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000342",
+    "request_id": "PR-2026-000427",
+    "issued_date": "2026-03-05",
+    "due_date": "2026-03-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000343",
+    "request_id": "PR-2026-000428",
+    "issued_date": "2026-02-18",
+    "due_date": "2026-02-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000344",
+    "request_id": "PR-2026-000429",
+    "issued_date": "2026-03-14",
+    "due_date": "2026-03-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000345",
+    "request_id": "PR-2026-000431",
+    "issued_date": "2026-05-22",
+    "due_date": "2026-05-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000346",
+    "request_id": "PR-2026-000432",
+    "issued_date": "2026-07-15",
+    "due_date": "2026-07-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000347",
+    "request_id": "PR-2026-000433",
+    "issued_date": "2026-06-19",
+    "due_date": "2026-06-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000348",
+    "request_id": "PR-2026-000434",
+    "issued_date": "2026-05-24",
+    "due_date": "2026-05-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000349",
+    "request_id": "PR-2026-000436",
+    "issued_date": "2026-05-10",
+    "due_date": "2026-05-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000350",
+    "request_id": "PR-2026-000437",
+    "issued_date": "2026-04-17",
+    "due_date": "2026-04-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000351",
+    "request_id": "PR-2026-000438",
+    "issued_date": "2026-03-02",
+    "due_date": "2026-03-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000352",
+    "request_id": "PR-2026-000439",
+    "issued_date": "2026-08-06",
+    "due_date": "2026-08-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000353",
+    "request_id": "PR-2026-000441",
+    "issued_date": "2026-04-02",
+    "due_date": "2026-04-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000354",
+    "request_id": "PR-2026-000442",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000355",
+    "request_id": "PR-2026-000443",
+    "issued_date": "2026-08-09",
+    "due_date": "2026-08-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000356",
+    "request_id": "PR-2026-000444",
+    "issued_date": "2026-08-21",
+    "due_date": "2026-08-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000357",
+    "request_id": "PR-2026-000446",
+    "issued_date": "2026-09-21",
+    "due_date": "2026-09-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000358",
+    "request_id": "PR-2026-000447",
+    "issued_date": "2026-03-16",
+    "due_date": "2026-03-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000359",
+    "request_id": "PR-2026-000448",
+    "issued_date": "2026-08-27",
+    "due_date": "2026-09-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000360",
+    "request_id": "PR-2026-000449",
+    "issued_date": "2026-03-09",
+    "due_date": "2026-03-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000361",
+    "request_id": "PR-2026-000451",
+    "issued_date": "2026-07-28",
+    "due_date": "2026-08-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000362",
+    "request_id": "PR-2026-000452",
+    "issued_date": "2026-06-16",
+    "due_date": "2026-06-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000363",
+    "request_id": "PR-2026-000453",
+    "issued_date": "2026-04-16",
+    "due_date": "2026-04-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000364",
+    "request_id": "PR-2026-000454",
+    "issued_date": "2026-04-15",
+    "due_date": "2026-04-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000365",
+    "request_id": "PR-2026-000456",
+    "issued_date": "2026-02-20",
+    "due_date": "2026-02-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000366",
+    "request_id": "PR-2026-000457",
+    "issued_date": "2026-07-04",
+    "due_date": "2026-07-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000367",
+    "request_id": "PR-2026-000458",
+    "issued_date": "2026-04-07",
+    "due_date": "2026-04-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000368",
+    "request_id": "PR-2026-000459",
+    "issued_date": "2026-05-15",
+    "due_date": "2026-05-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000369",
+    "request_id": "PR-2026-000461",
+    "issued_date": "2026-06-02",
+    "due_date": "2026-06-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000370",
+    "request_id": "PR-2026-000462",
+    "issued_date": "2026-06-29",
+    "due_date": "2026-07-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000371",
+    "request_id": "PR-2026-000463",
+    "issued_date": "2026-06-16",
+    "due_date": "2026-06-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000372",
+    "request_id": "PR-2026-000464",
+    "issued_date": "2026-04-06",
+    "due_date": "2026-04-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000373",
+    "request_id": "PR-2026-000466",
+    "issued_date": "2026-07-31",
+    "due_date": "2026-08-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000374",
+    "request_id": "PR-2026-000467",
+    "issued_date": "2026-06-16",
+    "due_date": "2026-06-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000375",
+    "request_id": "PR-2026-000468",
+    "issued_date": "2026-06-23",
+    "due_date": "2026-06-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000376",
+    "request_id": "PR-2026-000469",
+    "issued_date": "2026-07-14",
+    "due_date": "2026-07-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000377",
+    "request_id": "PR-2026-000471",
+    "issued_date": "2026-04-25",
+    "due_date": "2026-05-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000378",
+    "request_id": "PR-2026-000472",
+    "issued_date": "2026-02-16",
+    "due_date": "2026-02-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000379",
+    "request_id": "PR-2026-000473",
+    "issued_date": "2026-03-17",
+    "due_date": "2026-03-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000380",
+    "request_id": "PR-2026-000474",
+    "issued_date": "2026-08-09",
+    "due_date": "2026-08-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000381",
+    "request_id": "PR-2026-000476",
+    "issued_date": "2026-07-15",
+    "due_date": "2026-07-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000382",
+    "request_id": "PR-2026-000477",
+    "issued_date": "2026-08-22",
+    "due_date": "2026-08-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000383",
+    "request_id": "PR-2026-000478",
+    "issued_date": "2026-09-06",
+    "due_date": "2026-09-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000384",
+    "request_id": "PR-2026-000479",
+    "issued_date": "2026-03-14",
+    "due_date": "2026-03-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000385",
+    "request_id": "PR-2026-000481",
+    "issued_date": "2026-07-07",
+    "due_date": "2026-07-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000386",
+    "request_id": "PR-2026-000482",
+    "issued_date": "2026-09-10",
+    "due_date": "2026-09-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000387",
+    "request_id": "PR-2026-000483",
+    "issued_date": "2026-05-30",
+    "due_date": "2026-06-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000388",
+    "request_id": "PR-2026-000484",
+    "issued_date": "2026-05-21",
+    "due_date": "2026-05-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000389",
+    "request_id": "PR-2026-000486",
+    "issued_date": "2026-05-23",
+    "due_date": "2026-05-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000390",
+    "request_id": "PR-2026-000487",
+    "issued_date": "2026-07-25",
+    "due_date": "2026-08-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000391",
+    "request_id": "PR-2026-000488",
+    "issued_date": "2026-05-28",
+    "due_date": "2026-06-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000392",
+    "request_id": "PR-2026-000489",
+    "issued_date": "2026-08-23",
+    "due_date": "2026-08-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000393",
+    "request_id": "PR-2026-000491",
+    "issued_date": "2026-02-15",
+    "due_date": "2026-02-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000394",
+    "request_id": "PR-2026-000492",
+    "issued_date": "2026-03-12",
+    "due_date": "2026-03-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000395",
+    "request_id": "PR-2026-000493",
+    "issued_date": "2026-05-14",
+    "due_date": "2026-05-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000396",
+    "request_id": "PR-2026-000494",
+    "issued_date": "2026-07-25",
+    "due_date": "2026-08-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000397",
+    "request_id": "PR-2026-000496",
+    "issued_date": "2026-09-28",
+    "due_date": "2026-10-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000398",
+    "request_id": "PR-2026-000497",
+    "issued_date": "2026-04-27",
+    "due_date": "2026-05-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000399",
+    "request_id": "PR-2026-000498",
+    "issued_date": "2026-07-25",
+    "due_date": "2026-08-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000400",
+    "request_id": "PR-2026-000499",
+    "issued_date": "2026-05-29",
+    "due_date": "2026-06-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000401",
+    "request_id": "PR-2026-000501",
+    "issued_date": "2026-03-21",
+    "due_date": "2026-03-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000402",
+    "request_id": "PR-2026-000502",
+    "issued_date": "2026-04-03",
+    "due_date": "2026-04-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000403",
+    "request_id": "PR-2026-000503",
+    "issued_date": "2026-06-24",
+    "due_date": "2026-07-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000404",
+    "request_id": "PR-2026-000504",
+    "issued_date": "2026-04-17",
+    "due_date": "2026-04-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000405",
+    "request_id": "PR-2026-000506",
+    "issued_date": "2026-04-06",
+    "due_date": "2026-04-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000406",
+    "request_id": "PR-2026-000507",
+    "issued_date": "2026-07-08",
+    "due_date": "2026-07-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000407",
+    "request_id": "PR-2026-000508",
+    "issued_date": "2026-09-03",
+    "due_date": "2026-09-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000408",
+    "request_id": "PR-2026-000509",
+    "issued_date": "2026-04-11",
+    "due_date": "2026-04-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000409",
+    "request_id": "PR-2026-000511",
+    "issued_date": "2026-02-19",
+    "due_date": "2026-02-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000410",
+    "request_id": "PR-2026-000512",
+    "issued_date": "2026-09-22",
+    "due_date": "2026-09-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000411",
+    "request_id": "PR-2026-000513",
+    "issued_date": "2026-09-14",
+    "due_date": "2026-09-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000412",
+    "request_id": "PR-2026-000514",
+    "issued_date": "2026-09-04",
+    "due_date": "2026-09-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000413",
+    "request_id": "PR-2026-000516",
+    "issued_date": "2026-05-27",
+    "due_date": "2026-06-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000414",
+    "request_id": "PR-2026-000517",
+    "issued_date": "2026-06-17",
+    "due_date": "2026-06-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000415",
+    "request_id": "PR-2026-000518",
+    "issued_date": "2026-02-18",
+    "due_date": "2026-02-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000416",
+    "request_id": "PR-2026-000519",
+    "issued_date": "2026-06-12",
+    "due_date": "2026-06-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000417",
+    "request_id": "PR-2026-000521",
+    "issued_date": "2026-07-08",
+    "due_date": "2026-07-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000418",
+    "request_id": "PR-2026-000522",
+    "issued_date": "2026-09-26",
+    "due_date": "2026-10-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000419",
+    "request_id": "PR-2026-000523",
+    "issued_date": "2026-02-23",
+    "due_date": "2026-03-02",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000420",
+    "request_id": "PR-2026-000524",
+    "issued_date": "2026-08-13",
+    "due_date": "2026-08-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000421",
+    "request_id": "PR-2026-000526",
+    "issued_date": "2026-06-29",
+    "due_date": "2026-07-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000422",
+    "request_id": "PR-2026-000527",
+    "issued_date": "2026-09-15",
+    "due_date": "2026-09-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000423",
+    "request_id": "PR-2026-000528",
+    "issued_date": "2026-09-07",
+    "due_date": "2026-09-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000424",
+    "request_id": "PR-2026-000529",
+    "issued_date": "2026-06-09",
+    "due_date": "2026-06-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000425",
+    "request_id": "PR-2026-000531",
+    "issued_date": "2026-04-27",
+    "due_date": "2026-05-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000426",
+    "request_id": "PR-2026-000532",
+    "issued_date": "2026-07-09",
+    "due_date": "2026-07-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000427",
+    "request_id": "PR-2026-000533",
+    "issued_date": "2026-08-01",
+    "due_date": "2026-08-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000428",
+    "request_id": "PR-2026-000534",
+    "issued_date": "2026-06-03",
+    "due_date": "2026-06-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000429",
+    "request_id": "PR-2026-000536",
+    "issued_date": "2026-05-11",
+    "due_date": "2026-05-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000430",
+    "request_id": "PR-2026-000537",
+    "issued_date": "2026-08-03",
+    "due_date": "2026-08-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000431",
+    "request_id": "PR-2026-000538",
+    "issued_date": "2026-06-18",
+    "due_date": "2026-06-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000432",
+    "request_id": "PR-2026-000539",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000433",
+    "request_id": "PR-2026-000541",
+    "issued_date": "2026-03-07",
+    "due_date": "2026-03-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000434",
+    "request_id": "PR-2026-000542",
+    "issued_date": "2026-07-30",
+    "due_date": "2026-08-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000435",
+    "request_id": "PR-2026-000543",
+    "issued_date": "2026-04-26",
+    "due_date": "2026-05-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000436",
+    "request_id": "PR-2026-000544",
+    "issued_date": "2026-09-19",
+    "due_date": "2026-09-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000437",
+    "request_id": "PR-2026-000546",
+    "issued_date": "2026-03-28",
+    "due_date": "2026-04-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000438",
+    "request_id": "PR-2026-000547",
+    "issued_date": "2026-07-13",
+    "due_date": "2026-07-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000439",
+    "request_id": "PR-2026-000548",
+    "issued_date": "2026-09-09",
+    "due_date": "2026-09-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000440",
+    "request_id": "PR-2026-000549",
+    "issued_date": "2026-05-31",
+    "due_date": "2026-06-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000441",
+    "request_id": "PR-2026-000551",
+    "issued_date": "2026-06-21",
+    "due_date": "2026-06-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000442",
+    "request_id": "PR-2026-000552",
+    "issued_date": "2026-03-20",
+    "due_date": "2026-03-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000443",
+    "request_id": "PR-2026-000553",
+    "issued_date": "2026-06-19",
+    "due_date": "2026-06-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000444",
+    "request_id": "PR-2026-000554",
+    "issued_date": "2026-03-17",
+    "due_date": "2026-03-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000445",
+    "request_id": "PR-2026-000556",
+    "issued_date": "2026-02-22",
+    "due_date": "2026-03-01",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000446",
+    "request_id": "PR-2026-000557",
+    "issued_date": "2026-07-12",
+    "due_date": "2026-07-19",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000447",
+    "request_id": "PR-2026-000558",
+    "issued_date": "2026-09-07",
+    "due_date": "2026-09-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000448",
+    "request_id": "PR-2026-000559",
+    "issued_date": "2026-09-07",
+    "due_date": "2026-09-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000449",
+    "request_id": "PR-2026-000561",
+    "issued_date": "2026-10-02",
+    "due_date": "2026-10-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000450",
+    "request_id": "PR-2026-000562",
+    "issued_date": "2026-06-13",
+    "due_date": "2026-06-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000451",
+    "request_id": "PR-2026-000563",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000452",
+    "request_id": "PR-2026-000564",
+    "issued_date": "2026-10-03",
+    "due_date": "2026-10-10",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000453",
+    "request_id": "PR-2026-000566",
+    "issued_date": "2026-05-10",
+    "due_date": "2026-05-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000454",
+    "request_id": "PR-2026-000567",
+    "issued_date": "2026-03-05",
+    "due_date": "2026-03-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000455",
+    "request_id": "PR-2026-000568",
+    "issued_date": "2026-03-21",
+    "due_date": "2026-03-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000456",
+    "request_id": "PR-2026-000569",
+    "issued_date": "2026-06-07",
+    "due_date": "2026-06-14",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000457",
+    "request_id": "PR-2026-000571",
+    "issued_date": "2026-07-18",
+    "due_date": "2026-07-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000458",
+    "request_id": "PR-2026-000572",
+    "issued_date": "2026-04-08",
+    "due_date": "2026-04-15",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000459",
+    "request_id": "PR-2026-000573",
+    "issued_date": "2026-08-31",
+    "due_date": "2026-09-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000460",
+    "request_id": "PR-2026-000574",
+    "issued_date": "2026-06-06",
+    "due_date": "2026-06-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000461",
+    "request_id": "PR-2026-000576",
+    "issued_date": "2026-04-27",
+    "due_date": "2026-05-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000462",
+    "request_id": "PR-2026-000577",
+    "issued_date": "2026-02-15",
+    "due_date": "2026-02-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000463",
+    "request_id": "PR-2026-000578",
+    "issued_date": "2026-02-28",
+    "due_date": "2026-03-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000464",
+    "request_id": "PR-2026-000579",
+    "issued_date": "2026-02-28",
+    "due_date": "2026-03-07",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000465",
+    "request_id": "PR-2026-000581",
+    "issued_date": "2026-02-27",
+    "due_date": "2026-03-06",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000466",
+    "request_id": "PR-2026-000582",
+    "issued_date": "2026-09-15",
+    "due_date": "2026-09-22",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000467",
+    "request_id": "PR-2026-000583",
+    "issued_date": "2026-07-19",
+    "due_date": "2026-07-26",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000468",
+    "request_id": "PR-2026-000584",
+    "issued_date": "2026-06-09",
+    "due_date": "2026-06-16",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000469",
+    "request_id": "PR-2026-000586",
+    "issued_date": "2026-09-18",
+    "due_date": "2026-09-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000470",
+    "request_id": "PR-2026-000587",
+    "issued_date": "2026-03-01",
+    "due_date": "2026-03-08",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000471",
+    "request_id": "PR-2026-000588",
+    "issued_date": "2026-06-16",
+    "due_date": "2026-06-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000472",
+    "request_id": "PR-2026-000589",
+    "issued_date": "2026-06-20",
+    "due_date": "2026-06-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000473",
+    "request_id": "PR-2026-000591",
+    "issued_date": "2026-07-11",
+    "due_date": "2026-07-18",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000474",
+    "request_id": "PR-2026-000592",
+    "issued_date": "2026-08-10",
+    "due_date": "2026-08-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000475",
+    "request_id": "PR-2026-000593",
+    "issued_date": "2026-03-02",
+    "due_date": "2026-03-09",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000476",
+    "request_id": "PR-2026-000594",
+    "issued_date": "2026-07-28",
+    "due_date": "2026-08-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000477",
+    "request_id": "PR-2026-000596",
+    "issued_date": "2026-09-17",
+    "due_date": "2026-09-24",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000478",
+    "request_id": "PR-2026-000597",
+    "issued_date": "2026-08-28",
+    "due_date": "2026-09-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000479",
+    "request_id": "PR-2026-000598",
+    "issued_date": "2026-09-28",
+    "due_date": "2026-10-05",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000480",
+    "request_id": "PR-2026-000599",
+    "issued_date": "2026-05-05",
+    "due_date": "2026-05-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000481",
+    "request_id": "PR-2026-000601",
+    "issued_date": "2026-07-16",
+    "due_date": "2026-07-23",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000482",
+    "request_id": "PR-2026-000602",
+    "issued_date": "2026-09-26",
+    "due_date": "2026-10-03",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000483",
+    "request_id": "PR-2026-000603",
+    "issued_date": "2026-08-22",
+    "due_date": "2026-08-29",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000484",
+    "request_id": "PR-2026-000604",
+    "issued_date": "2026-09-27",
+    "due_date": "2026-10-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000485",
+    "request_id": "PR-2026-000606",
+    "issued_date": "2026-03-18",
+    "due_date": "2026-03-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000486",
+    "request_id": "PR-2026-000607",
+    "issued_date": "2026-09-23",
+    "due_date": "2026-09-30",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000487",
+    "request_id": "PR-2026-000608",
+    "issued_date": "2026-09-05",
+    "due_date": "2026-09-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000488",
+    "request_id": "PR-2026-000609",
+    "issued_date": "2026-08-24",
+    "due_date": "2026-08-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000489",
+    "request_id": "PR-2026-000611",
+    "issued_date": "2026-03-20",
+    "due_date": "2026-03-27",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000490",
+    "request_id": "PR-2026-000612",
+    "issued_date": "2026-03-14",
+    "due_date": "2026-03-21",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000491",
+    "request_id": "PR-2026-000613",
+    "issued_date": "2026-06-04",
+    "due_date": "2026-06-11",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000492",
+    "request_id": "PR-2026-000614",
+    "issued_date": "2026-08-18",
+    "due_date": "2026-08-25",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000493",
+    "request_id": "PR-2026-000616",
+    "issued_date": "2026-04-05",
+    "due_date": "2026-04-12",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000494",
+    "request_id": "PR-2026-000617",
+    "issued_date": "2026-04-10",
+    "due_date": "2026-04-17",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000495",
+    "request_id": "PR-2026-000618",
+    "issued_date": "2026-05-21",
+    "due_date": "2026-05-28",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000496",
+    "request_id": "PR-2026-000619",
+    "issued_date": "2026-03-24",
+    "due_date": "2026-03-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000497",
+    "request_id": "PR-2026-000621",
+    "issued_date": "2026-07-06",
+    "due_date": "2026-07-13",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000498",
+    "request_id": "PR-2026-000622",
+    "issued_date": "2026-08-13",
+    "due_date": "2026-08-20",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000499",
+    "request_id": "PR-2026-000623",
+    "issued_date": "2026-05-24",
+    "due_date": "2026-05-31",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  },
+  {
+    "rfq_id": "RFQ-2026-000500",
+    "request_id": "PR-2026-000624",
+    "issued_date": "2026-09-27",
+    "due_date": "2026-10-04",
+    "status": "awarded",
+    "competitive": "true",
+    "currency": "INR"
+  }
+]

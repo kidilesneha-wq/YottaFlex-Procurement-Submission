@@ -1,0 +1,1082 @@
+[
+  {
+    "supplier_id": "SUP-0001",
+    "supplier_code": "S0001",
+    "name": "Supplier 0001",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0002",
+    "supplier_code": "S0002",
+    "name": "Supplier 0002",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0003",
+    "supplier_code": "S0003",
+    "name": "Supplier 0003",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0004",
+    "supplier_code": "S0004",
+    "name": "Supplier 0004",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0005",
+    "supplier_code": "S0005",
+    "name": "Supplier 0005",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0006",
+    "supplier_code": "S0006",
+    "name": "Supplier 0006",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0007",
+    "supplier_code": "S0007",
+    "name": "Supplier 0007",
+    "currency": "INR",
+    "active": "false",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0008",
+    "supplier_code": "S0008",
+    "name": "Supplier 0008",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0009",
+    "supplier_code": "S0009",
+    "name": "Supplier 0009",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0010",
+    "supplier_code": "S0010",
+    "name": "Supplier 0010",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0011",
+    "supplier_code": "S0011",
+    "name": "Supplier 0011",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "high",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0012",
+    "supplier_code": "S0012",
+    "name": "Supplier 0012",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0013",
+    "supplier_code": "S0013",
+    "name": "Supplier 0013",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0014",
+    "supplier_code": "S0014",
+    "name": "Supplier 0014",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0015",
+    "supplier_code": "S0015",
+    "name": "Supplier 0015",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0016",
+    "supplier_code": "S0016",
+    "name": "Supplier 0016",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0017",
+    "supplier_code": "S0017",
+    "name": "Supplier 0017",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0018",
+    "supplier_code": "S0018",
+    "name": "Supplier 0018",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0019",
+    "supplier_code": "S0019",
+    "name": "Supplier 0019",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0020",
+    "supplier_code": "S0020",
+    "name": "Supplier 0020",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0021",
+    "supplier_code": "S0021",
+    "name": "Supplier 0021",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0022",
+    "supplier_code": "S0022",
+    "name": "Supplier 0022",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0023",
+    "supplier_code": "S0023",
+    "name": "Supplier 0023",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "high",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0024",
+    "supplier_code": "S0024",
+    "name": "Supplier 0024",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0025",
+    "supplier_code": "S0025",
+    "name": "Supplier 0025",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0026",
+    "supplier_code": "S0026",
+    "name": "Supplier 0026",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0027",
+    "supplier_code": "S0027",
+    "name": "Supplier 0027",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0028",
+    "supplier_code": "S0028",
+    "name": "Supplier 0028",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0029",
+    "supplier_code": "S0029",
+    "name": "Supplier 0029",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0030",
+    "supplier_code": "S0030",
+    "name": "Supplier 0030",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0031",
+    "supplier_code": "S0031",
+    "name": "Supplier 0031",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0032",
+    "supplier_code": "S0032",
+    "name": "Supplier 0032",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0033",
+    "supplier_code": "S0033",
+    "name": "Supplier 0033",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0034",
+    "supplier_code": "S0034",
+    "name": "Supplier 0034",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0035",
+    "supplier_code": "S0035",
+    "name": "Supplier 0035",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0036",
+    "supplier_code": "S0036",
+    "name": "Supplier 0036",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0037",
+    "supplier_code": "S0037",
+    "name": "Supplier 0037",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0038",
+    "supplier_code": "S0038",
+    "name": "Supplier 0038",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0039",
+    "supplier_code": "S0039",
+    "name": "Supplier 0039",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0040",
+    "supplier_code": "S0040",
+    "name": "Supplier 0040",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0041",
+    "supplier_code": "S0041",
+    "name": "Supplier 0041",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0042",
+    "supplier_code": "S0042",
+    "name": "Supplier 0042",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0043",
+    "supplier_code": "S0043",
+    "name": "Supplier 0043",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0044",
+    "supplier_code": "S0044",
+    "name": "Supplier 0044",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0045",
+    "supplier_code": "S0045",
+    "name": "Supplier 0045",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0046",
+    "supplier_code": "S0046",
+    "name": "Supplier 0046",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0047",
+    "supplier_code": "S0047",
+    "name": "Supplier 0047",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0048",
+    "supplier_code": "S0048",
+    "name": "Supplier 0048",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0049",
+    "supplier_code": "S0049",
+    "name": "Supplier 0049",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0050",
+    "supplier_code": "S0050",
+    "name": "Supplier 0050",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0051",
+    "supplier_code": "S0051",
+    "name": "Supplier 0051",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0052",
+    "supplier_code": "S0052",
+    "name": "Supplier 0052",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0053",
+    "supplier_code": "S0053",
+    "name": "Supplier 0053",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0054",
+    "supplier_code": "S0054",
+    "name": "Supplier 0054",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0055",
+    "supplier_code": "S0055",
+    "name": "Supplier 0055",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0056",
+    "supplier_code": "S0056",
+    "name": "Supplier 0056",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0057",
+    "supplier_code": "S0057",
+    "name": "Supplier 0057",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0058",
+    "supplier_code": "S0058",
+    "name": "Supplier 0058",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0059",
+    "supplier_code": "S0059",
+    "name": "Supplier 0059",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0060",
+    "supplier_code": "S0060",
+    "name": "Supplier 0060",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0061",
+    "supplier_code": "S0061",
+    "name": "Supplier 0061",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0062",
+    "supplier_code": "S0062",
+    "name": "Supplier 0062",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0063",
+    "supplier_code": "S0063",
+    "name": "Supplier 0063",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0064",
+    "supplier_code": "S0064",
+    "name": "Supplier 0064",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0065",
+    "supplier_code": "S0065",
+    "name": "Supplier 0065",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0066",
+    "supplier_code": "S0066",
+    "name": "Supplier 0066",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0067",
+    "supplier_code": "S0067",
+    "name": "Supplier 0067",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0068",
+    "supplier_code": "S0068",
+    "name": "Supplier 0068",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0069",
+    "supplier_code": "S0069",
+    "name": "Supplier 0069",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0070",
+    "supplier_code": "S0070",
+    "name": "Supplier 0070",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0071",
+    "supplier_code": "S0071",
+    "name": "Supplier 0071",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0072",
+    "supplier_code": "S0072",
+    "name": "Supplier 0072",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0073",
+    "supplier_code": "S0073",
+    "name": "Supplier 0073",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0074",
+    "supplier_code": "S0074",
+    "name": "Supplier 0074",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0075",
+    "supplier_code": "S0075",
+    "name": "Supplier 0075",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0076",
+    "supplier_code": "S0076",
+    "name": "Supplier 0076",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0077",
+    "supplier_code": "S0077",
+    "name": "Supplier 0077",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0078",
+    "supplier_code": "S0078",
+    "name": "Supplier 0078",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0079",
+    "supplier_code": "S0079",
+    "name": "Supplier 0079",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0080",
+    "supplier_code": "S0080",
+    "name": "Supplier 0080",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0081",
+    "supplier_code": "S0081",
+    "name": "Supplier 0081",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0082",
+    "supplier_code": "S0082",
+    "name": "Supplier 0082",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0083",
+    "supplier_code": "S0083",
+    "name": "Supplier 0083",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0084",
+    "supplier_code": "S0084",
+    "name": "Supplier 0084",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0085",
+    "supplier_code": "S0085",
+    "name": "Supplier 0085",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0086",
+    "supplier_code": "S0086",
+    "name": "Supplier 0086",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0087",
+    "supplier_code": "S0087",
+    "name": "Supplier 0087",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0088",
+    "supplier_code": "S0088",
+    "name": "Supplier 0088",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0089",
+    "supplier_code": "S0089",
+    "name": "Supplier 0089",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0090",
+    "supplier_code": "S0090",
+    "name": "Supplier 0090",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0091",
+    "supplier_code": "S0091",
+    "name": "Supplier 0091",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0092",
+    "supplier_code": "S0092",
+    "name": "Supplier 0092",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0093",
+    "supplier_code": "S0093",
+    "name": "Supplier 0093",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0094",
+    "supplier_code": "S0094",
+    "name": "Supplier 0094",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0095",
+    "supplier_code": "S0095",
+    "name": "Supplier 0095",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0096",
+    "supplier_code": "S0096",
+    "name": "Supplier 0096",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0097",
+    "supplier_code": "S0097",
+    "name": "Supplier 0097",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0098",
+    "supplier_code": "S0098",
+    "name": "Supplier 0098",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0099",
+    "supplier_code": "S0099",
+    "name": "Supplier 0099",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0100",
+    "supplier_code": "S0100",
+    "name": "Supplier 0100",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0101",
+    "supplier_code": "S0101",
+    "name": "Supplier 0101",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0102",
+    "supplier_code": "S0102",
+    "name": "Supplier 0102",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0103",
+    "supplier_code": "S0103",
+    "name": "Supplier 0103",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0104",
+    "supplier_code": "S0104",
+    "name": "Supplier 0104",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0105",
+    "supplier_code": "S0105",
+    "name": "Supplier 0105",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0106",
+    "supplier_code": "S0106",
+    "name": "Supplier 0106",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0107",
+    "supplier_code": "S0107",
+    "name": "Supplier 0107",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0108",
+    "supplier_code": "S0108",
+    "name": "Supplier 0108",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0109",
+    "supplier_code": "S0109",
+    "name": "Supplier 0109",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0110",
+    "supplier_code": "S0110",
+    "name": "Supplier 0110",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0111",
+    "supplier_code": "S0111",
+    "name": "Supplier 0111",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0112",
+    "supplier_code": "S0112",
+    "name": "Supplier 0112",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0113",
+    "supplier_code": "S0113",
+    "name": "Supplier 0113",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0114",
+    "supplier_code": "S0114",
+    "name": "Supplier 0114",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0115",
+    "supplier_code": "S0115",
+    "name": "Supplier 0115",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  },
+  {
+    "supplier_id": "SUP-0116",
+    "supplier_code": "S0116",
+    "name": "Supplier 0116",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0117",
+    "supplier_code": "S0117",
+    "name": "Supplier 0117",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "60"
+  },
+  {
+    "supplier_id": "SUP-0118",
+    "supplier_code": "S0118",
+    "name": "Supplier 0118",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "45"
+  },
+  {
+    "supplier_id": "SUP-0119",
+    "supplier_code": "S0119",
+    "name": "Supplier 0119",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "15"
+  },
+  {
+    "supplier_id": "SUP-0120",
+    "supplier_code": "S0120",
+    "name": "Supplier 0120",
+    "currency": "INR",
+    "active": "true",
+    "risk_flag": "none",
+    "payment_terms_days": "30"
+  }
+]

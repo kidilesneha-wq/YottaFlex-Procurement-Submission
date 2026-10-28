@@ -1,0 +1,51 @@
+[
+  {
+    "anomaly_id": "ANOM-01",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000001",
+    "label": "po_without_approval",
+    "expected_issue": "No approval record exists for the request."
+  },
+  {
+    "anomaly_id": "ANOM-02",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000002",
+    "label": "quote_expired_before_award",
+    "expected_issue": "Award date is after quote expiry."
+  },
+  {
+    "anomaly_id": "ANOM-03",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000003",
+    "label": "selected_quote_not_cheapest",
+    "expected_issue": "Selected quote has higher landed cost and no documented rationale."
+  },
+  {
+    "anomaly_id": "ANOM-04",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000004",
+    "label": "inactive_supplier",
+    "expected_issue": "Selected supplier is inactive."
+  },
+  {
+    "anomaly_id": "ANOM-05",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000005",
+    "label": "budget_overrun",
+    "expected_issue": "PO total exceeds linked budget allocation."
+  },
+  {
+    "anomaly_id": "ANOM-06",
+    "entity_type": "purchase_request",
+    "entity_id": "PR-2026-001201",
+    "label": "duplicate_request",
+    "expected_issue": "Matching requester, department, budget, dates and estimate."
+  },
+  {
+    "anomaly_id": "ANOM-07",
+    "entity_type": "purchase_order",
+    "entity_id": "PO-2026-000007",
+    "label": "quote_currency_mismatch",
+    "expected_issue": "Selected quote currency differs from request currency."
+  }
+]

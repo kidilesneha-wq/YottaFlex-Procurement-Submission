@@ -1,0 +1,11 @@
+department_id,name,cost_center
+DEPT-001,Engineering,CC-001
+DEPT-002,IT,CC-002
+DEPT-003,Finance,CC-003
+DEPT-004,HR,CC-004
+DEPT-005,Operations,CC-005
+DEPT-006,Sales,CC-006
+DEPT-007,Marketing,CC-007
+DEPT-008,Support,CC-008
+DEPT-009,Legal,CC-009
+DEPT-010,Facilities,CC-010
